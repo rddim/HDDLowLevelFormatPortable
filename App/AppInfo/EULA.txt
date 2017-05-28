@@ -1,0 +1,69 @@
+LICENSE AGREEMENT: TERMS AND CONDITIONS OF USE
+
+IMPORTANT NOTICE: Read this License Agreement carefully before installing or using this Software. BY INSTALLING 
+OR USING THIS SOFTWARE IN ANY WAY YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND AND AGREE TO 
+THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT INSTALL THIS SOFTWARE, DO 
+NOT USE THIS SOFTWARE IN ANY WAY, AND PROMPTLY RETURN THE SOFTWARE (AND ALL WRITTEN MATERIALS 
+AND CONTAINERS) TO THE PLACE WHERE YOU OBTAINED THEM OR DELETE OR DESTROY ANY COPIES OF THIS 
+SOFTWARE IN YOUR POSSESSION.
+
+LICENSE. HDDGURU grants you a non-exclusive, private or commercial use license to use this software and any 
+associated 
+documentation ("Software") as indicated herein.  The Software is designed and licensed for use on a single computer,
+except for the Personal license, which can be used on any number of computers within one household.
+The Software is in "use" on a single computer when it has been loaded into temporary memory (i.e. RAM) or installed 
+into permanent memory (e.g. hard disk or other storage device) of that computer.
+You may transfer the software to another computer by uninstalling the software and 
+then installing it on the new computer. You may transfer your license rights to another with the written permission of 
+HDDGURU only under the following conditions: You must transfer a copy of this License Agreement, all 
+documentation, and at least one complete, unaltered copy of the Software to the other party.  You must, at the 
+same time, either transfer all your other copies of the Software to the other party or destroy them.
+
+OTHER RESTRICTIONS. You shall not: (a) remove any product identification, copyright notices, or other notices or 
+proprietary restrictions from the Software; (b) transfer, rent, lease, sublicense, copy, or distribute the Software 
+without written permission from HDDGURU; (c) cause or permit reverse engineering, disassembly, decompilation or 
+alteration of this software.
+
+TERM. This License is effective until terminated.  You may terminate it at any time by destroying the Software, 
+together with all copies thereof.  This license will also terminate if you fail to comply with any term or condition of this 
+Agreement.  Upon such termination, you agree to destroy the Software, together with all copies thereof.
+
+COPYRIGHT/OWNERSHIP.  This Software and its source code are proprietary products of HDDGURU and are 
+protected by copyright and other intellectual property laws.  The Software is licensed and not sold.  You acquire only 
+the right to use the Software and do not acquire any rights, express or implied, in the Software or media containing 
+the Software other than those specified in this License.  HDDGURU shall at all times retain all rights, title, interest, 
+including intellectual property rights, in the Software and media.
+
+TRADEMARKS. Product names referred to herein are trademarks or registered trademarks of HDDGURU.
+
+EXPORT RESTRICTIONS. You agree to comply fully with all laws and regulations of the United States and other 
+countries (Export Laws) to assure that neither the Software, nor any direct products thereof are (1) exported, 
+directly or indirectly, in violation of Export Laws, or (2) are used for any purpose prohibited by Export Laws, including, 
+without limitation, nuclear, chemical, or biological weapons proliferation.
+
+None of the Software or underlying information or technology may be downloaded or otherwise exported or re-
+exported (i) into (or to a national or resident of) Cuba, Iraq, Libya, Yugoslavia, North Korea, Iran, Syria or any other 
+country to which the U.S. has embargoed goods; or (ii) to anyone on the U.S. Treasury Department's List of Specially 
+Designated Nationals or the U.S. Commerce Department's Table of Denial Orders. By installing or using the Software, 
+you are agreeing to the foregoing and you are representing and warranting that you are not located in, under the 
+control of, or a national or resident of any such country or on any such list.
+
+DISCLAIMER OF WARRANTIES. THIS SOFTWARE IS DISTRIBUTED "AS IS" AND YOU, ITS USER, ASSUME ALL RISKS 
+WHEN INSTALLING OR USING IT.  THERE ARE NO WARRANTIES EXPRESS OR IMPLIED, BY OPERATION OF LAW OR 
+OTHERWISE. HDDGURU DISCLAIMS THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A 
+PARTICULAR PURPOSE.  HDDGURU DOES NOT WARRANT THAT THE SOFTWARE IS NON-INFRINGING, THAT IT WILL 
+MEET YOUR REQUIREMENTS OR THAT ITS OPERATION WILL BE UNINTERRUPTED, ERROR-FREE OR VIRUS FREE. IN 
+NO EVENT SHALL HDDGURU BE LIABLE FOR ANY DAMAGES OF ANY KIND INCLUDING DIRECT, INDIRECT, SPECIAL, 
+INCIDENTAL OR CONSEQUENTIAL DAMAGES (WHICH SHALL INCLUDE WITHOUT LIMITATION, DAMAGES FOR LOSS 
+OF BUSINESS OR PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR OTHER PECUNIARY 
+LOSS) WHETHER BASED ON CONTRACT, TORT OR OTHER LEGAL THEORY, ARISING OUT OF THE USE OF OR 
+INABILITY TO USE THE SOFTWARE, EVEN IF HDDGURU HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH 
+DAMAGES.  SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL 
+DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.
+
+GOVERNING LAW: You agree this Agreement shall be governed by the laws of the State of California, excluding (i) 
+that body of law known as conflicts of law, and (ii) the United Nations Convention on Contracts for the Sale of Goods, 
+and each party hereto submits to the exclusive jurisdiction of the Courts of that State. You further agree that this 
+agreement is the complete and exclusive statement of the agreement between you and HDDGURU relating to the use 
+of this Software.
+
